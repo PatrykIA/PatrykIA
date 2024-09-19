@@ -1,4 +1,5 @@
 
+
 🌟 About Me
 
 I’m a Computer Science student and Tech Lead at Space&Miller with a focus on business automation using artificial intelligence. My role involves developing systems that enhance operational efficiency through advanced AI and automation.
@@ -15,3 +16,4 @@ I’m a Computer Science student and Tech Lead at Space&Miller with a focus on b
 I aim to develop innovative solutions that automate processes and help companies save costs. Committed to staying ahead in the dynamic AI industry, I continuously improve my skills to harness new opportunities.
 
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/c33f3234-841f-4b8c-b7d0-99d84bd17d17)
+            MySQL  MongoDB    AWS   LeetCode
